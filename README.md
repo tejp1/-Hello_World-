@@ -4,7 +4,7 @@
 - ***Description***
 - ***How to Run Program***
 - ***Files Used***
--***Additional Documentation***
+- ***Additional Documentation***
 - ***Version Summary***
 
 # Project Title
