@@ -1,4 +1,3 @@
-# Hello_World
 # Project Title
 ## Description
 ### How to Run Program
