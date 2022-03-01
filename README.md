@@ -8,7 +8,7 @@
 - *Version Summary*
 
 # Project Title
-*Hello World*
+*Hello_World*
 # Description
 Creating a GitHub repository for the first time!
 # How to Run Program
