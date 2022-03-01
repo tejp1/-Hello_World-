@@ -1,11 +1,11 @@
 # Table of Contents
 
-- *Project Title*
-- *Description*
-- *How to Run Program*
-- *Files Used*
-- *Additional Documentation*
-- *Version Summary*
+- ***Project Title***
+- ***Description***
+- ***How to Run Program***
+- ***Files Used***
+-***Additional Documentation***
+- ***Version Summary***
 
 # Project Title
 *Hello_World*
@@ -28,5 +28,5 @@ File: README.md
 # Additional Documentation
 No additional documentation at the moment. Here is an *italicized* text
 
-# Version Summary
-Version 0.0 - *No major changes at the moment*
+# Version Summary ✅
+⚙️ Version 0.0 - *No major changes at the moment*
